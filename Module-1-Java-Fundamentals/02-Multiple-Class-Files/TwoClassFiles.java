@@ -1,5 +1,3 @@
-package Core_Fundamentals;
-
 public class TwoClassFiles
 {
 
