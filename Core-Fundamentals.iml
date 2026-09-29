@@ -4,11 +4,11 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/Comparable_and_Comparator_Demo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/Control_Flow" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/Exception_Handling" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/Interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/Iterator_and_IterableBasics" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/JDK_Version" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/Multiple_Class_Files" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/OOP" isTestSource="false" />

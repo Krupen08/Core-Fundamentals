@@ -20,6 +20,7 @@ class Book implements Comparable<Book> {
         return Double.compare(this.price, other.price);
     }
 
+
     @Override
     public String toString() {
         return title + " — $" + price;

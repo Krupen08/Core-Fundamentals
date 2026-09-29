@@ -2,9 +2,9 @@ import java.util.*;
 
 class Manga {
     String title;
-    double price;
+    int price;
 
-    Manga(String title, double price) {
+    Manga(String title, int price) {
         this.title = title;
         this.price = price;
     }
@@ -27,10 +27,10 @@ public class Comparator_example{
 
         // Comparator: price ke according sort
         Comparator<Manga> byPrice =
-                (a, b) -> Double.compare(a.price, b.price);
+                (a, b) -> Integer.compare(a.price, b.price);
         Comparator<Manga> byTitle = (a,b) -> a.title.compareTo(b.title);
 
-        books.sort(byPrice);
+        books.sort(byPrice.reversed());
         System.out.println("By Price:");
         for (Manga manga : books) {
             System.out.println(manga);
