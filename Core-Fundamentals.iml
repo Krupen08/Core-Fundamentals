@@ -15,6 +15,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/Pass_by_Value_example(Variables)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/Strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/Variable_Scope" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/GenericsBasics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/MapBasics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/QueueDemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/SetBasics" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
