@@ -19,6 +19,14 @@
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/MapBasics" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/QueueDemo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/SetBasics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/FileHandling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-1-Java-Fundamentals/StreamAPI" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-2-Java-Multithreading/BasicThreadCode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-2-Java-Multithreading/Daemon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-2-Java-Multithreading/InterruptsInThreadsDemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-2-Java-Multithreading/Priority" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-2-Java-Multithreading/Synchronization_demo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module-2-Java-Multithreading/InterThreadComms" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

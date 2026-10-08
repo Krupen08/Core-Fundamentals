@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Core-Fundamentals.iml" filepath="$PROJECT_DIR$/Core-Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module-2-Java-Multithreading/Daemon/Daemon.iml" filepath="$PROJECT_DIR$/Module-2-Java-Multithreading/Daemon/Daemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module-2-Java-Multithreading/Module-2-Java-Multithreading.iml" filepath="$PROJECT_DIR$/Module-2-Java-Multithreading/Module-2-Java-Multithreading.iml" />
     </modules>
   </component>
 </project>

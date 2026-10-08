@@ -19,7 +19,7 @@ class dog extends Janwar {
 
 public class Abstraction {
     public static void main(String[] args) {
-        // Animal a = new Animal(); // ERROR: Cannot instantiate abstract class directly
+        // Janwar a = new Janwar(); // ERROR: Cannot instantiate abstract class directly
 
         Janwar myDog = new dog();
         myDog.makeSound(); // Output: Woof! Woof!
